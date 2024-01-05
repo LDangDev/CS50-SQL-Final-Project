@@ -80,7 +80,7 @@ The `books` table includes:
 
 The following diagram illustrates the relationships among the entities in the database through an Entity Relationship Diagram.
 
-![ER Diagram](library management diagram.png)
+![ER Diagram](https://github.com/LDangDev/CS50-SQL-Final-Project/blob/main/library%20management%20diagram.png)
 
 To be more specific:
 
